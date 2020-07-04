@@ -75,7 +75,6 @@ Pygments==2.6.1
 PyHamcrest==2.0.2
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
-Pyrebase==3.0.27
 pyrsistent==0.16.0
 python-dateutil==2.8.1
 python-jwt==2.0.1
