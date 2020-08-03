@@ -19,7 +19,8 @@ def predict():
     data = request.get_json(force=True)
 
     path=os.getcwd()
-
+    
+    #use random forest model to get better prediction 
     # predictions
     #result = model.predict(data_df)
 
